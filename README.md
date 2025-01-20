@@ -77,5 +77,3 @@ Change is possible with determination and a willingness to learn.
 Every challenge is an opportunity for growth.
 📈 Let’s Connect!
 I’d love to collaborate on business analytics, data visualization, and strategy-driven projects. Let’s connect and create solutions that make a difference in the business and technology landscape!
-
-This version better integrates business, emphasizing its connection to your skills and passion. It’s structured for clarity and professionalism while highlighting your ability to work at the intersection of business, data, and technology.
