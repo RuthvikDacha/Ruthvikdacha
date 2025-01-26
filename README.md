@@ -12,7 +12,7 @@ Hello! I'm **Ruthvik Dacha**, a Business Analytics graduate with a unique story 
 
 - **Customer Service Excellence:** My professional career began at **Sykes Business Services**, where I supported **Ally Financial** clients. I learned the importance of building relationships, listening actively, and crafting tailored solutions to meet business needs.  
 - **Consulting for Innovation:** I transitioned to **Regalix**, where I contributed to a **Google Project**, delivering insights to **small and medium enterprises**. Here, I realized the impact of **data-driven decision-making** on business growth.  
-- **Driving Digital Strategies:** At **Concentrix Malaysia**, I worked as a **Senior Digital Marketing Specialist**, supporting **Facebook and Meta** campaigns. I collaborated with cross-functional teams to execute strategies that balanced marketing goals and data-driven insights.  
+- **Driving Digital Strategies:** At **Concentrix Malaysia**, I worked as a **Senior Digital Marketing Specialist**, supporting **Facebook and Instagram** campaigns. I collaborated with cross-functional teams to execute strategies that balanced marketing goals and data-driven insights.  
 
 These roles shaped my ability to work at the intersection of **business, data, and technology**.  
 
