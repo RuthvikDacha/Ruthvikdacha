@@ -29,6 +29,19 @@ My mission is to leverage data to fuel growth, innovation, and informed decision
 
 ---
 
+## 💼 What You’ll Find Here  
+
+On my GitHub profile, you’ll discover:   
+
+- **Data Visualization Projects:** Interactive dashboards and visualizations built with tools like **Tableau** and **Power BI**, showcasing insights from real-world datasets.  
+- **Business Use Cases:** Projects focused on **business insights**, demonstrating the application of analytics to solve real-world business challenges.  
+- **Coming Soon – Analytics & Machine Learning Models:** In the coming weeks, I’ll be adding repositories featuring predictive models and analytics pipelines built with **Python** and **SQL**, designed to uncover actionable insights.
+ 
+
+These projects reflect my belief that **data is a bridge between business goals and actionable strategies**. I strive to make data understandable and valuable to stakeholders, helping them make informed decisions.
+
+---
+
 ## 🛠️ Skills & Technologies  
 
 - **Business Intelligence Tools:** Tableau, Power BI, Looker, Qlik Sense  
