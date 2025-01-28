@@ -6,7 +6,8 @@
 
 ## 🌟 About Me  
 
-Hello! I'm **Ruthvik Dacha**, a Business Analytics graduate from Governors State University with a journey rooted in transformation and growth. My career began in **customer-facing roles**, where I developed adaptability, problem-solving skills, and a customer-focused mindset. My curiosity about the **power of data and technology** to drive impactful business outcomes inspired me to pivot into analytics and data-driven roles.  
+Hello! I'm **Ruthvik Dacha**, a **Business Analytics** graduate from **Governors State University** with a journey rooted in transformation and growth. My career began in **customer-facing roles**, where I developed adaptability, problem-solving skills, and a customer-focused mindset. My curiosity about the **power of data and technology** to drive impactful business outcomes inspired me to pivot into analytics and data-driven roles.  
+
 
 ### 📖 My Journey  
 
