@@ -11,11 +11,20 @@ Hello! I'm **Ruthvik Dacha**, a **Business Analytics** graduate from **Governors
 
 ### 📖 My Journey  
 
-- **Customer Service Foundations:** At **Sykes Business Services**, I supported **Ally Financial** clients, learning the importance of active listening, relationship-building, and tailored solutions.  
-- **Consulting with Impact:** At **Regalix**, I worked on a **Google project**, empowering **small and medium enterprises** through data insights and innovative strategies.  
-- **Digital Marketing Expertise:** At **Concentrix Malaysia**, I supported **Facebook and Instagram** campaigns, delivering insights and strategies that aligned with business goals.  
 
-These experiences have shaped my ability to bridge the gap between **business needs** and **technical insights**.  
+- **Customer Service Foundations:**  
+  At **Sykes Business Services**, I supported Ally Financial clients across **North America**, learning the importance of active listening, relationship-building, and tailored solutions.
+
+- **Consulting with Impact:**  
+  At **Regalix**, I worked on a Google project, empowering small and medium enterprises across **North America** through data insights and innovative strategies.
+
+- **Digital Marketing Expertise:**  
+  At **Concentrix Malaysia**, I supported Facebook and Instagram campaigns for clients across **North America**, delivering insights and strategies that aligned with business goals.
+
+- **Analytics Internship:**  
+  Currently, I am an intern at **MG Cloud Technologies LLC**, where I am honing my skills in business analytics, contributing to data-driven projects, and delivering actionable insights to support organizational objectives.
+
+These experiences have shaped my ability to bridge the gap between business needs and technical insights.
 
 ---
 
